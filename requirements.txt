@@ -1,0 +1,7 @@
+flask
+pandas
+lxml
+xlrd
+xlwt
+tushare
+openpyxl

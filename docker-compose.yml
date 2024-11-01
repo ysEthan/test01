@@ -1,0 +1,5 @@
+services:
+  dw2:
+    build: .
+    volumes:
+      - '.:/app'
